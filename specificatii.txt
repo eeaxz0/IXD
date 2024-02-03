@@ -1,0 +1,3 @@
+ Într-un reper cartezian 𝑥𝑂𝑦, numim cerc trigonometric, cercul orientat cu centrul în originea reperului cartezian și de rază 1. Cercul tigonometric are un sens direct (pozitiv, trigonometric) invers acului de ceasornic și un sens invers (negativ).
+ Formula fundamentală a trigonometriei: sin^2 𝑥 + cos^2 𝑥 = 1, ∀𝑥 ∈ 𝑅
+sin 𝑥 = ±√1 − cos2 𝑥, cos 𝑥 = ±√1 − sin2 𝑥
